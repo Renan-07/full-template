@@ -1,0 +1,11 @@
+Git is important for version control,
+which means that it tracks the changes that you make to your files.
+It's also important for collaboration as part of a larger programming team.
+
+The moment you create a workspace using Gitpod, a repository is created on Github.
+
+Storing files in Git is a two-stage process:
+First, we need to add our files to what's called the staging area using the "git add" command.
+Secondly, we commit them to the repository using the "git commit" command.
+1: Adding to the staging area: git add
+2: Comitting to the repository: git commit

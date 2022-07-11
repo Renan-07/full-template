@@ -1,0 +1,33 @@
+Type python3 -m http.server to preview the website
+Then click on the file name
+
+If you closed the browser window, you can get back to it
+by clicking on the 'Remote Explorer' button (Desktop/Screen looking button),
+and then clicking on the 'Open Browser' button (Globe looking button) at the open port 8000
+
+To stop the web server, go to the terminal window,
+and press 'CTRL C'
+
+When using the terminal, use these input commands:
+clear: empties any input in the terminal
+echo: serves as a print statment
+history: shows the terminal history
+!: using ! followed by a number allows you to quickly repeat a specific command from your history
+pwd: shows your current folder or directory
+ls: lists all files in the current directory
+ls -la: shows all files including hidden ones, and soem extra information about them
+cd: changes directory
+touch: takes a file name as a parameter and creates a new file
+rm: removes a file from the system. add -rf to remove directories
+mkdir: creates a new directory
+cp: makes a copy of a file
+mv: moves a file to another destination
+nano: opens up the Nano text editor
+cat: prints the content of the file into the terminal
+diff: shows difference between files
+readlink -f: shows where a file or directory is located
+
+
+Absolute vs Relative paths:
+Absolute: eg.: /home/ubuntu/workspace/media/images/thumbnails
+Relative: eg.: images/thumbnails
